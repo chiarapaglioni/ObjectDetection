@@ -1,0 +1,42 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nxSimple", "nxSimple\nxSimple.vcxproj", "{B9B12946-2336-432A-A90E-E910A0A0483D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nxReadArray", "nxReadArray\nxReadArray.vcxproj", "{EA807DAA-8DF9-46E9-8DD0-763A1379CBF0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nxLoadParams", "nxLoadParams\nxLoadParams.vcxproj", "{FCE62D75-3954-4DE2-A22F-37D43F578AEA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nxListCams", "nxListCams\nxListCams.vcxproj", "{BD3B48CD-CF0B-4CEE-9F03-729061E3C390}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nxListCamsLibDynamic", "nxListCamsLibDynamic\nxListCamsLibDynamic.vcxproj", "{F94E2EDF-CD72-40B7-BEF1-B373C80DC332}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9B12946-2336-432A-A90E-E910A0A0483D}.Debug|x64.ActiveCfg = Debug|x64
+		{B9B12946-2336-432A-A90E-E910A0A0483D}.Debug|x64.Build.0 = Debug|x64
+		{B9B12946-2336-432A-A90E-E910A0A0483D}.Release|x64.ActiveCfg = Release|x64
+		{B9B12946-2336-432A-A90E-E910A0A0483D}.Release|x64.Build.0 = Release|x64
+		{EA807DAA-8DF9-46E9-8DD0-763A1379CBF0}.Debug|x64.ActiveCfg = Debug|x64
+		{EA807DAA-8DF9-46E9-8DD0-763A1379CBF0}.Debug|x64.Build.0 = Debug|x64
+		{EA807DAA-8DF9-46E9-8DD0-763A1379CBF0}.Release|x64.ActiveCfg = Release|x64
+		{EA807DAA-8DF9-46E9-8DD0-763A1379CBF0}.Release|x64.Build.0 = Release|x64
+		{FCE62D75-3954-4DE2-A22F-37D43F578AEA}.Debug|x64.ActiveCfg = Debug|x64
+		{FCE62D75-3954-4DE2-A22F-37D43F578AEA}.Debug|x64.Build.0 = Debug|x64
+		{FCE62D75-3954-4DE2-A22F-37D43F578AEA}.Release|x64.ActiveCfg = Release|x64
+		{FCE62D75-3954-4DE2-A22F-37D43F578AEA}.Release|x64.Build.0 = Release|x64
+		{BD3B48CD-CF0B-4CEE-9F03-729061E3C390}.Debug|x64.ActiveCfg = Debug|x64
+		{BD3B48CD-CF0B-4CEE-9F03-729061E3C390}.Debug|x64.Build.0 = Debug|x64
+		{BD3B48CD-CF0B-4CEE-9F03-729061E3C390}.Release|x64.ActiveCfg = Release|x64
+		{BD3B48CD-CF0B-4CEE-9F03-729061E3C390}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
